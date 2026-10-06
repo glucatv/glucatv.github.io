@@ -1,2 +1,1 @@
-# glucatv.github.io
-Gianluca Rossi Home Page
+# Gianluca Rossi Home Page
